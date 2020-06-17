@@ -1,7 +1,6 @@
 # DIGHUM101-2020: Python Practice for the Digital Humanities
 Instructor: 
 Evan Muzzall, PhD  
-Student : Rishabh Parekh
 [Instructional Services Lead](https://dlab.berkeley.edu/people/evan-muzzall)  
 [UC Berkeley D-Lab](https://dlab.berkeley.edu/)
 
